@@ -1,0 +1,66 @@
+{
+  "_note1": "KEEP THIS FILE! Check it into a version control system (VCS) like git.",
+  "_note2": "ObjectBox manages crucial IDs for your object model. See docs for details.",
+  "_note3": "If you have VCS merge conflicts, you must resolve them according to ObjectBox docs.",
+  "entities": [
+    {
+      "id": "2:2893473584258115809",
+      "lastPropertyId": "6:702428288202178188",
+      "name": "TripModelDb",
+      "properties": [
+        {
+          "id": "1:3419117702569959410",
+          "name": "id",
+          "type": 6,
+          "flags": 1
+        },
+        {
+          "id": "2:2385370489306381842",
+          "name": "title",
+          "type": 9
+        },
+        {
+          "id": "3:9072266428611088795",
+          "name": "partners",
+          "type": 9
+        },
+        {
+          "id": "4:6122339644995537344",
+          "name": "durationInDays",
+          "type": 6
+        },
+        {
+          "id": "5:7817537238515962523",
+          "name": "startDate",
+          "type": 9
+        },
+        {
+          "id": "6:702428288202178188",
+          "name": "endDate",
+          "type": 9
+        }
+      ],
+      "relations": []
+    }
+  ],
+  "lastEntityId": "2:2893473584258115809",
+  "lastIndexId": "0:0",
+  "lastRelationId": "0:0",
+  "lastSequenceId": "0:0",
+  "modelVersion": 5,
+  "modelVersionParserMinimum": 5,
+  "retiredEntityUids": [
+    7136993120287254219
+  ],
+  "retiredIndexUids": [],
+  "retiredPropertyUids": [
+    339341007447055620,
+    6720924476228979366,
+    5094053940734025819,
+    9148767463141214492,
+    2928860882748397078,
+    955306485077054622
+  ],
+  "retiredRelationUids": [],
+  "version": 1
+}
